@@ -21,6 +21,6 @@ public class ToastUtils {
      * @param context
      */
     public static void showToast(Context context) {
-        Toast.makeText(context, "我是徐圣灿！！！！", Toast.LENGTH_LONG).show();
+        Toast.makeText(context, "我是徐圣灿！！！！你是傻逼吗", Toast.LENGTH_LONG).show();
     }
 }
